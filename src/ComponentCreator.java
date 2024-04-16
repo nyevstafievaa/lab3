@@ -1,6 +1,6 @@
 package lab.lab3;
 
-import Lab.Lab3.model.*;
+import lab3.model.*;
 
 public interface ComponentCreator {
     Student createStudent(String firstName, String lastName, String patronymic, Sex sex, Group group);
