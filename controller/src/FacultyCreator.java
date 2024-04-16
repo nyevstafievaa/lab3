@@ -1,3 +1,5 @@
+package lab3.controller
+
 import lab3.model.Faculty;
 import lab3.model.Human;
 
